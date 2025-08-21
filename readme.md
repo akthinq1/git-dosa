@@ -10,7 +10,7 @@
 ## Karam Dosa
 * Dosa batter
 * light oil
-* add karam podi
+* add erra karam podi
 
 
 
