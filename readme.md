@@ -14,8 +14,8 @@
 
 ## Ghee Dosa
 * Dosa batter
-* add spice
-* add Ghee
+* add ghee, add spice
+
 
 
 
